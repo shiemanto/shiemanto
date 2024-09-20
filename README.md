@@ -1,4 +1,5 @@
 # 💫 About Me:
+![IMG20240904140753](https://github.com/user-attachments/assets/c4b94ccb-e427-415e-a5ac-36259acecf29)<br>
 🔭 My vision is to create software that will make your life easy, regardless of where you want to run it.<br>👯 I love bringing my ideas to life using code. Let's collaborate.<br>🤝 I’m open about looking for your help.<br>🌱 I try to keep learning as I go on. There's so much to learn.<br>💬 Ask me about my work. I'd appreciate your feedback on how to improve myself further.<br>⚡ Fun fact, I take coffee and cat video breaks.
 
 
